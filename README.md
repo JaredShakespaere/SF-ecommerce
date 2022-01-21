@@ -1,5 +1,5 @@
 # The Problem
-I want to make it easier for me as a online business owner present products to my clientele. This ecommerce page can solve that issue by allowing the client to navigate through proteins and supplements, see the different online training packages we offer, add items to cart, and check out. 
+I want to make it easier for me as a online business owner to present products to my clientele. This ecommerce page can solve that issue by allowing the client to navigate through proteins and supplements, see the different online training packages we offer, add items to cart, and check out. 
 
 ShakespaereFit is an online platform that assists everyday people and athletes in becoming the best version of themselves. 
 
